@@ -13,7 +13,9 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'Laravel'), 
+    'app_login_heading' => env('APP_LOGIN_HEADING', 'INVENTORY.LOGIN.PANEL'),
+
 
     /*
     |--------------------------------------------------------------------------
